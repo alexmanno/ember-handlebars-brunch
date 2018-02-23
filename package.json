@@ -7,10 +7,10 @@
   },
   "contributors": [
   ],
-  "homepage": "https://github.com/bartsqueezy/ember-handlebars-brunch",
+  "homepage": "https://github.com/alexmanno/ember-handlebars-brunch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bartsqueezy/ember-handlebars-brunch.git"
+    "url": "git://github.com/alexmanno/ember-handlebars-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
