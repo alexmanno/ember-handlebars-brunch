@@ -1,9 +1,9 @@
 {
-  "name": "ember-handlebars-brunch",
+  "name": "ember-handlebars-forked",
   "version": "1.2.1",
   "description": "Adds pre-compiling support for Ember Handlebars templates to Brunch",
   "author": {
-    "name": "Steve Bartnesky"
+    "name": "Alessandro Manno"
   },
   "contributors": [
     {
@@ -36,10 +36,10 @@
       "email": "matt@strangelooper.com"
     }
   ],
-  "homepage": "https://github.com/bartsqueezy/ember-handlebars-brunch",
+  "homepage": "https://github.com/alexmanno/ember-handlebars-brunch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bartsqueezy/ember-handlebars-brunch.git"
+    "url": "git://github.com/alexmanno/ember-handlebars-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
